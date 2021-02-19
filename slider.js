@@ -158,4 +158,3 @@ class Slideshow {
 
 	addLoadClass();
 })();
-
