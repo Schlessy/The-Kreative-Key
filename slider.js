@@ -1,4 +1,3 @@
-<script>
 const $window = $(window);
 const $body = $('body');
 
@@ -160,4 +159,3 @@ class Slideshow {
 	addLoadClass();
 })();
 
-</script>
