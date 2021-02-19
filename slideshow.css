@@ -523,49 +523,6 @@ strong {
   overflow: hidden;
 }
 
-
-
-@media (max-width: 699px) {
-  h1, .o-h1 {
-    font-size: 26px;
-  }
-}
-@media (min-width: 700px) {
-  h1, .o-h1 {
-    font-size: 60px;
-  }
-}
-@media (min-width: 1600px) {
-  h1, .o-h1 {
-    font-size: 4.375rem;
-  }
-}
-@media (max-width: 1599px) {
-  h2, .o-h2 {
-    font-size: 1.5625rem;
-  }
-}
-@media (min-width: 1600px) {
-  h2, .o-h2 {
-    font-size: 2.25rem;
-  }
-}
-h3, .o-h3 {
-  font-size: 1.5625rem;
-}
-
-h4, .o-h4 {
-  font-size: 1rem;
-}
-
-h5, .o-h5 {
-  font-size: 0.8125rem;
-}
-
-h6, .o-h6 {
-  font-size: 0.6875rem;
-}
-
 .o-hsub {
   display: inline-block;
   text-transform: uppercase;
