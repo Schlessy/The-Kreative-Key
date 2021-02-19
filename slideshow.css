@@ -356,7 +356,7 @@ body[data-route-option=prev-section] .c-header-home_subheading.-load, body[data-
 }
 
 .is-loaded .c-header-home_controls, .is-loaded .c-header-home_buttons {
-  transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 180px, 0);
 }
 
 body[data-route-option=prev-section] .c-header-home_controls, body[data-route-option=prev-section] .c-header-home_buttons, body[data-route-option=next-section] .c-header-home_controls, body[data-route-option=next-section] .c-header-home_buttons {
